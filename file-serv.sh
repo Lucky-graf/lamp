@@ -13,7 +13,7 @@ sudo mv site1/style.css /var/www/site1
 sudo mv site1/virobnik.html /var/www/site1
 sudo mv site1/zalslav.html /var/www/site1 
 #sudo nano /var/www/site1/index.html	#макет html
-sudo nano /etc/apache2/sites-available/site1.conf 	#копіювати вміст 000df
+sudo mv site1.conf /etc/apache2/sites-available/site1.conf 	#копіювати вміст 000df
 #<VirtualHost *:80>
 #ServerName www.example.com
 #ServerAdmin webmaster@localhost
