@@ -5,5 +5,3 @@ sudo bash file-serv.sh
 sudo bash mySQL-inst.sh
 sudo bash mySQL-set.sh
 sudo bash php-inst.sh
-sudo bash deploy.sh
-
