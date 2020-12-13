@@ -5,4 +5,4 @@ echo Now mount the site
 sleep 5
 git clone https://github.com/Lucky-graf/site1.git
 sudo mkdir /var/www/
-sudo mv /home/graf/deploy/site1 /var/www/
+sudo mv site1 /var/www/
