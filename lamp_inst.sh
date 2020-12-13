@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo bash deploy.sh
 sudo bash apach-inst.sh
 sudo bash apach-actv.sh
 sudo bash file-serv.sh
