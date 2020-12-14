@@ -36,6 +36,9 @@ sleep 5
 sudo bash php-inst.sh
 #######
 echo PHP install successful
+#######################SSLcertificate
+sudo bash sll-request.sh
+#####################
 sudo rmd -rf /home/$USER/lamp#delet files
 echo '-----------!!!Congratulations!!!-----------------'
 echo '!!!Your server is working fine and feeling good!!!'
