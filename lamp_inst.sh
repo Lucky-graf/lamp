@@ -2,7 +2,7 @@
 times=$(date +%s)
 echo Hi, I was created to deploy a term paper Boyko Bogdan
 echo --Start deploy environment--
-Deployment started LAMP Server
+echo Deployment started LAMP Server
 echo Settings Apache
 sleep 5
 #######
